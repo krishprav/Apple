@@ -20,7 +20,7 @@ Installation
 ---------------
 Step 1: Clone Repository
 Bash
-git clone https://github.com/your-username/iphone-16-pro-concept.git
+git clone https://github.com/krishprav/Apple.git
 Step 2: Install Dependencies
 Bash
 npm install
